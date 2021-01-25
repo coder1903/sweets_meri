@@ -17,7 +17,7 @@ Cake World of Colors \s
 Price: 4500Р
 
 ![Image of Cake3](/cake3.jpg)
-Cake Happy new Year \s
+Cake Happy new Year \
 Price: 6000Р
 
 ### Contact me from
