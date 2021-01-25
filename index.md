@@ -1,33 +1,19 @@
 ## Welcome to Sweets Meri
 
-### Markdown Selman
+### Here you can find best cakes for people you love!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Just imagine how you want your cake look like and let Liza make it real ;)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Some of cakes we made already :)
 
-1. Numbered
-2. List
+![Image of Cake1](/cake1.jpg)
 
-**Bold** and _Italic_ and `Code` text
+![Image of Cake2](/cake2.jpg)
 
-[Link](url) and ![resim](/cake1.jpg)
-```
+![Image of Cake3](/cake3.jpg)
 
-![Image of Yaktocat2](/cake1.jpg)
+### Contact me from
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/selmangurgen/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+instagram.com/sweets_meri
