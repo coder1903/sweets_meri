@@ -9,11 +9,11 @@ Just imagine how you want your cake look like and let Liza make it real ;)
 ### Some of cakes we made already :)
 
 ![Image of Cake1](/cake1.jpg)
-Cake Black & White \s
+Cake Black & White \
 Price: 5000Р
 
 ![Image of Cake2](/cake2.jpg)
-Cake World of Colors \s
+Cake World of Colors \
 Price: 4500Р
 
 ![Image of Cake3](/cake3.jpg)
