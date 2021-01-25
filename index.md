@@ -22,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![resim](/cake1.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[resim](/cake1.jpg)
 
 ### Jekyll Themes
 
