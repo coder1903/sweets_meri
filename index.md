@@ -16,5 +16,5 @@ Just imagine how you want your cake look like and let Liza make it real ;)
 
 ### Contact me from
 
-[Sweets_Meri Instagram Page!](instagram.com/sweets_meri)
+[Sweets_Meri Instagram Page!](https://www.instagram.com/sweets_meri/)
 
