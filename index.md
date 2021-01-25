@@ -22,7 +22,6 @@ Syntax highlighted code block
 [Link](url) and ![resim](/cake1.jpg)
 ```
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of Yaktocat2](/cake1.jpg)
 
 ### Jekyll Themes
